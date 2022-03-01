@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/debojitroy/Express-API-Kubernetes/issues"
   },
-  "homepage": "https://github.com/debojitroy/Express-API-Kubernetes#readme"
+  "homepage": "https://github.com/debojitroy/Express-API-Kubernetes#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
