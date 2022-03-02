@@ -1,0 +1,10 @@
+.git/
+.idea/
+.yarn/
+node_modules/
+npm-debug.log
+yarn-error.log
+*.iml
+*.report.html
+coverage/
+.env*
